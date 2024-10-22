@@ -8,7 +8,7 @@ int weird_func()
 int main()
 {
     i = 0;
-    i = i + 1 - weird_func();
+    i = i + 1 - weird_func();    
     std::cout << i << std::endl;
     i = 0;
     i = i - weird_func();
