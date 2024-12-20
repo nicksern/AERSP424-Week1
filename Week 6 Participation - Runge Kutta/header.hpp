@@ -3,6 +3,8 @@ using namespace std;
 #include<iostream>
 #include<vector>
 #include<array>
+#include<cmath>
+#include<numbers>
 
 #pragma once
 
